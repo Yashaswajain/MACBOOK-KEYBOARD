@@ -1,0 +1,249 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+/*font-family: 'Varela Round', sans-serif;*/
+
+.keys .row1 .k1{
+    display:flex;
+    flex-direction: row;
+    align-items:center;
+    font-size: 65%;
+}
+/*row2*/
+.keys .row2 button .upper{
+    height:80%;
+font-size:90%;
+    align-items: center;
+}
+.keys .row2 button .lower{
+    height:80%;
+    font-size:115%;
+    align-items: center;
+}
+.keys .row2 button{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding-left: 2.3%;
+}
+.keys .row2 .k28 div{
+font-size: 80%;
+    margin-top:40%;
+    margin-left: 40%;
+    background:none;
+}
+/*row2*/
+
+/*row3*/
+.keys .row3  .k29 div{
+    font-size: 75%;
+    margin-top: 25%;
+    background:none;
+}
+.keys .row3 .k40,.k41,.k42{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding-left: 2.5%;
+}
+.keys .row3 .k40 div{
+    height:50%;
+    font-size:90%;
+    align-items: center;
+}
+.keys .row3 .k41 div{
+    height:50%;
+    font-size:90%;
+    align-items: center;
+}
+.keys .row3 .k42 div{
+    height:50%;
+    font-size:90%;
+    align-items: center;
+}
+/*row3*/
+
+/*row4*/
+.keys .row4 .k43 .lower{
+    font-size: 70%;
+    margin-top: 20%;
+    background:none;
+}
+.keys .row4 .k55 .lower{
+    font-size: 75%;
+    margin-left: 65%;
+    margin-top: 20%;
+    background:none;
+}
+.keys .row4 .k53,.k54{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding-left: 2.5%;
+}
+.keys .row4 .k53 .upper{
+    height:5%;
+    background:none;
+}
+.keys .row4 .k53 .lower{
+    height:50%;
+    align-items: center;
+    background:none;
+}
+.keys .row4 .k54 .upper{
+    height:20%;
+    background:none;
+}
+.keys .row4 .k54 .lower{
+    height:20%;
+    margin-left: 10%;
+    align-items: center;
+    background:none;
+}
+/*row4*/
+/*row5*/
+.keys .row5 .k56 .lower{
+    font-size: 80%;
+    margin-top: 15%;
+    background:none;
+}
+.keys .row5 .k67 .lower{
+    font-size: 80%;
+    margin-left: 80%;
+    margin-top: 15%;
+    background:none;
+}
+.keys .row5 .k64,.k65,.k66{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding-left: 2.5%;
+}
+.keys .row5 .k64 .upper{
+    height:5%;
+    background:none;
+}
+.keys .row5 .k64 .lower{
+    height:50%;
+    align-items: center;
+    margin-left: 14%;
+    background:none;
+}
+.keys .row5 .k65 .upper{
+    height:5%;
+    background:none;
+}
+.keys .row5 .k65 .lower{
+    height:50%;
+    margin-left:12%;
+    align-items: center;
+    background:none;
+}
+.keys .row5 .k66 .upper{
+    height:15%;
+    background:none;
+}
+.keys .row5 .k66 .lower{
+    height:35%;
+    
+    background:none;
+}
+/*row5*/
+.keys .row6 .k68 .lower{
+    font-size: 80%;
+    margin-top: 51%;
+    background:none;
+}
+.keys .row6 .k69,.k70,.k71,.k73,.k74{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.keys .row6 .k69 .upper{
+    font-size:100%;
+    margin-left:80%;
+    background:none;
+}
+.keys .row6 .k69 .lower{
+    height:10%;
+    margin-top: 36%;
+    font-size:80%;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.keys .row6 .k70 .upper{
+    font-size:100%;
+    height:80%;
+    margin-left:63%;
+    background:none;
+}
+.keys .row6 .k70 .lower{
+    height:80%;
+    margin-top: 14%;
+    font-size:80%;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.keys .row6 .k71 .upper{
+    font-size:70%;
+    height:100%;
+    margin-top:6%;
+    margin-left: 82%;
+    background:none;
+}
+.keys .row6 .k71 .lower{
+    height:85%;
+    font-size:80%;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.keys .row6 .k73 .upper{
+    font-size:70%;
+    height:100%;
+    margin-top:6%;
+    background:none;
+}
+.keys .row6 .k73 .lower{
+    height:85%;
+    font-size:80%;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.keys .row6 .k74 .upper{
+    font-size:100%;
+    height:80%;
+    background:none;
+}
+.keys .row6 .k74 .lower{
+    height:80%;
+    margin-top:14%;
+    font-size:80%;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
